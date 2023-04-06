@@ -1,0 +1,279 @@
+.advantages__item--city {
+  background-color: #81B3D2;
+  color: #ffffff;
+}
+.advantages__example-list {
+  background-color: #ffffff;
+  color: #000000;
+}
+.example-list__description {
+  color: #333333;
+}
+.advantages__item--bridge {
+  background-color: #81B3D2;
+  color: #ffffff;
+}
+.advantages__item--grey {
+  background-color: #EEEEEE;
+}
+.advantages__item--grey .advantages__description {
+  color: #333333;
+}
+.advantages__list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  margin-bottom: 38px;
+}
+.advantages__example-list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.advantages__header {
+  margin-left: 18px;
+  margin-right: 18px;
+  margin-bottom: 32px;
+}
+.advantages__slogan {
+  margin-bottom: 35px;
+}
+.attractions__text {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 26px;
+  text-transform: capitalize;
+}
+.attractions {
+  border: none;
+}
+.attractions__list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.button {
+  color: #ffffff;
+  background-color: #81B3D2;
+  font-weight: 700;
+  font-size: 21px;
+  line-height: 26px;
+  border: none;
+}
+.contacts__input {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 26px;
+}
+.contacts {
+  border: none;
+}
+.contacts__list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.emotions__text {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 26px;
+}
+.feedback__note {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 21px;
+  color: #33333399;
+}
+.feedback__wrapper-text {
+  margin: 36px 20px 28px 20px;
+}
+.feedback__full-name {
+  margin-top: 24px;
+  margin-bottom: 39px;
+}
+.feedback__contacts {
+  margin-top: 24px;
+  margin-bottom: 34px;
+}
+.feedback__impress {
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+.feedback__attractions {
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+.feedback__wrapper-emotion {
+  margin-top: 24px;
+  margin-bottom: 22px;
+}
+.full-name__input {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 26px;
+}
+.full-name {
+  border: none;
+}
+.full-name__list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.picture__description {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 21px;
+  text-transform: uppercase;
+}
+.picture__author {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  text-transform: capitalize;
+}
+.gallery__list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.gallery__heading-wrapper {
+  margin: 30px 20px 17px 20px;
+}
+.gallery__item {
+  margin: 24px 20px 25px 20px;
+}
+.gallery__video {
+  margin: 17px 20px 0 20px;
+}
+.hero-inner {
+  background-color: #81B3D2;
+  background-image: url(../img/background-hero-catalog.jpg);
+  height: 214px;
+  background-repeat: no-repeat;
+}
+.hero {
+  background-color: #81B3D2;
+  background-image: url(../img/background-hero.jpg);
+  background-repeat: no-repeat;
+}
+.impress__text {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 26px;
+  text-transform: capitalize;
+}
+.impress {
+  border: none;
+}
+.impress__list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.like-button__like-number {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 21px;
+}
+.hashtag__link {
+  font-size: 21px;
+  color: #000000;
+}
+.copyright__link {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #000000;
+}
+.main-footer__wrapper {
+  margin: 41px 18px 33px 18px;
+}
+.site-list__item {
+  background-color: #81B3D2;
+  color: #FFFFFF;
+}
+.site-list__link {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+.main-nav__list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.page__body {
+  margin: 0 auto;
+  font-family: "PT Sans", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 26px;
+  text-transform: uppercase;
+  width: 320px;
+}
+.search-hotel__title {
+  font-weight: 700;
+  font-size: 21px;
+  line-height: 26px;
+}
+.search-hotel__button {
+  font-size: 21px;
+}
+.search-hotel__wrapper {
+  margin-bottom: 49px;
+}
+@font-face {
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/source/fonts/ptsans.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/source/fonts/ptsansbold.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/source/fonts/ptsans.woff") format("woff");
+  font-display: swap;
+}
+@font-face {
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/source/fonts/ptsansbold.woff") format("woff");
+  font-display: swap;
+}
+.description-text {
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 400;
+}
+.titles {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 26px;
+}
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+.modal__button {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 26px;
+  text-transform: uppercase;
+}
+/*# sourceMappingURL=style.css.map */
